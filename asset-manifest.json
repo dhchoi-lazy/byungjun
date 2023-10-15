@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/byungjun/static/css/main.9b138189.css",
-    "main.js": "/byungjun/static/js/main.2eb65cde.js",
+    "main.js": "/byungjun/static/js/main.2f6ddafb.js",
     "static/js/787.fbf4380c.chunk.js": "/byungjun/static/js/787.fbf4380c.chunk.js",
     "static/media/4.jpg": "/byungjun/static/media/4.94b09873becc64249c58.jpg",
     "static/media/3.jpg": "/byungjun/static/media/3.a8fc5ca281cf3fd44baa.jpg",
@@ -11,11 +11,11 @@
     "static/media/naver-map-icon.png": "/byungjun/static/media/naver-map-icon.2b87c75304e1bb87dd28.png",
     "index.html": "/byungjun/index.html",
     "main.9b138189.css.map": "/byungjun/static/css/main.9b138189.css.map",
-    "main.2eb65cde.js.map": "/byungjun/static/js/main.2eb65cde.js.map",
+    "main.2f6ddafb.js.map": "/byungjun/static/js/main.2f6ddafb.js.map",
     "787.fbf4380c.chunk.js.map": "/byungjun/static/js/787.fbf4380c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b138189.css",
-    "static/js/main.2eb65cde.js"
+    "static/js/main.2f6ddafb.js"
   ]
 }
